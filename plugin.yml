@@ -1,0 +1,7 @@
+name: Coins
+version: 1.0
+author: Coder98
+main: me.Plugin.Main
+commands:
+  coins:
+  admincoins:

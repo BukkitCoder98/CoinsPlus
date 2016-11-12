@@ -1,0 +1,54 @@
+#Coins+ by: Coder98
+#http://gamersboard.com.br/user/15584-coder98/
+MySQL:
+  Ativar: true
+  Host: sql9.freemysqlhosting.net
+  Porta: 3306
+  Usuario: 'sql9144147'
+  Senha: 'JhJ2jLGruv'
+  Database: 'sql9144147'
+#Ranking
+TotalDePlayersNoRanking: 5
+#PvP
+GanharCoinsAoMatar:
+  Ativar: true
+  Quantia: 100
+PerderCoinsAoMorrer:
+  Ativar: true
+  Quantia: 50
+#Mobs
+AtivarCoinsBlaze: true
+AtivarCoinsAranha: true
+AtivarCoinsGalinha: true
+AtivarCoinsVaca: true
+AtivarCoinsCreeper: true
+AtivarCoinsEnderman: true
+AtivarCoinsIronGolem: true
+AtivarCoinsMagmaCube: true
+AtivarCoinsVacaCogu: true
+AtivarCoinsPorco: true
+AtivarCoinsOvelha: true
+AtivarCoinsSlime: true
+AtivarCoinsEsqueleto: true
+AtivarCoinsZumbi: true
+AtivarCoinsPorcoZumbi: true
+AtivarCoinsCavalo: true
+AtivarCoinsLula: true
+
+CoinsBlaze: 1
+CoinsAranha: 1
+CoinsGalinha: 1
+CoinsVaca: 1
+CoinsCreeper: 1
+CoinsEnderman: 1
+CoinsIronGolem: 1
+CoinsMagmaCube: 1
+CoinsVacaCogu: 1
+CoinsPorco: 1
+CoinsOvelha: 1
+CoinsSlime: 1
+CoinsEsqueleto: 1
+CoinsZumbi: 1
+CoinsPorcoZumbi: 1
+CoinsCavalo: 1
+CoinsLula: 1
