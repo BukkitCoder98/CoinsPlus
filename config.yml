@@ -2,13 +2,13 @@
 #http://gamersboard.com.br/user/15584-coder98/
 MySQL:
   Ativar: true
-  Host: sql9.freemysqlhosting.net
+  Host: host
   Porta: 3306
-  Usuario: 'sql9144147'
-  Senha: 'JhJ2jLGruv'
-  Database: 'sql9144147'
+  Usuario: 'root'
+  Senha: 'senha'
+  Database: 'database'
 #Ranking
-TotalDePlayersNoRanking: 5
+TotalDePlayersNoRanking: 10
 #PvP
 GanharCoinsAoMatar:
   Ativar: true
