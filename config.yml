@@ -1,7 +1,7 @@
 #Coins+ by: Coder98
 #http://gamersboard.com.br/user/15584-coder98/
 MySQL:
-  Ativar: true
+  Ativar: false
   Host: host
   Porta: 3306
   Usuario: 'root'
